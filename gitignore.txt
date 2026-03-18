@@ -1,0 +1,18 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.dll
+*.exe
+*.pdb
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
